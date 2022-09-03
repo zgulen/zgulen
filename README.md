@@ -9,7 +9,6 @@ Learning Js, React, HTML and Css.
 * 🌍  I'm based in Turkey, izmir
 * ✉️  You can contact me at [gulenzubeyir@gmail.com](mailto:gulenzubeyir@gmail.com)
 * 🧠  I'm learning js, React, CSS
-* 🤝  I'm open to collaborating on internship
 * ⚡  Addict on post-apocalyptic movie
 
 ### Skills
