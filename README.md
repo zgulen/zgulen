@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zgulen&show_icons=true&locale=en" alt="zgulen" /></p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zgulen&" alt="zgulen" /></p>
-<br /><br />
+<br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zgulen&label=Profile%20views&color=0e75b6&style=flat" alt="zgulen" /> </p>
