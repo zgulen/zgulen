@@ -1,7 +1,6 @@
 
 
 <h2 size= "2">$${\color{lightgreen}Hi \space I'm \space Zübeyir}$$ </h2>
-
 <h3 align="left">$${\color{lightblue}A \space Passionate \space to \space Game \space Development \space From \space Turkey}$$</h3>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zgulen" alt="zgulen" /></a> </p>
@@ -12,7 +11,7 @@
 
 <p align="center"> 📫 How to reach me **gulenzubeyir@gmail.com**</p>
 <hr>
-
+<h1></h1>
 <h3 align="left">$${\color{lightblue}Connect \space With \space Me}$$</h3>
 <p align="center">
 <a href="https://twitter.com/gulenzubeyir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulenzubeyir" height="30" width="40" /></a>
@@ -20,7 +19,8 @@
 <a href="https://fb.com/zubeyirg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubeyirg" height="30" width="40" /></a>
 <a href="https://instagram.com/zubeyirgulen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubeyirgulen" height="30" width="40" /></a>
 </p>
-<hr><hr>
+<h1></h1>
+<hr>
 
 
 <h3 align="left">$${\color{lightblue}Languages \space And \space Tools:}$$</h3>
