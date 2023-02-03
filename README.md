@@ -1,6 +1,6 @@
 
 
-<h2 size= "2">$${\color{lightgreen}Hi \space I'm \space Zübeyir}$$ </h2>
+<h2 size= "2">$${\color{lightblue}Hi \space I'm \space Zübeyir}$$ </h2>
 <h3 align="left">$${\color{lightblue}A \space Developer \space Who \space Passionate \space to \space Game \space Development \space From \space Turkey}$$</h3>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zgulen" alt="zgulen" /></a> </p>
