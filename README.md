@@ -5,11 +5,13 @@
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zgulen" alt="zgulen" /></a> </p>
 <hr >
-<p align="center"> 🌱 I’m currently learning ==> **Unity and it's great**</p>
 
-<p align="center"> 💬 Ask me about ==> **`React`, `Js`**</p>
+- I’m currently learning 🌱 Unity
 
-<p align="center"> 📫 How to reach me **gulenzubeyir@gmail.com**</p>
+- Ask me about 💬 `React`, `Js`
+
+- How to reach me 📫 gulenzubeyir@gmail.com
+</p>
 <hr>
 <h1></h1>
 <h3 align="left">$${\color{lightblue}Connect \space With \space Me}$$</h3>
